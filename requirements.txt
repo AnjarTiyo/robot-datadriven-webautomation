@@ -1,0 +1,4 @@
+robotframework==6.0
+robotframework-datadriver==1.6.1
+robotframework-pythonlibcore==3.0.0
+robotframework-seleniumlibrary==6.0.0
